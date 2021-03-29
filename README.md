@@ -1,2 +1,5 @@
 # hello-world
-About git
+
+Hi There!
+
+Playing with git here...
